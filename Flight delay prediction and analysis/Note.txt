@@ -1,0 +1,12 @@
+#Course : CS 513
+  #GROUP MEMBERS
+  #Vandna Yadav CS-513-A 
+  
+
+
+Data Techniques Used:
+1)KNN
+2)KKNN
+3)CART
+4)C5.0
+5)ANN
